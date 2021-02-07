@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         sendBtn.setOnClickListener {
  //    Ctrl + I 로 이줄을 주석
-            Log.d("메인화면", "전송버튼이 눌림")
+            Log.d("메인화면", "전송버튼이  눌림")
 
         }
     }
